@@ -1,0 +1,20 @@
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.editorconfig
+.eslintignore
+.eslintrc.json
+.gitignore
+.stylelintrc.json
+capacitor.config.ts
+package-lock.json
+package.json
+README.md
+tsconfig.json
